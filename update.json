@@ -1,1 +1,6 @@
-
+{
+  "versionCode": 2,
+  "versionName": "1.0",
+  "apkUrl": "https://...",
+  "apkSha256": "C07F89DE5F88163091AAB884BA03410A113A338911AE3011132A859B00FE3399" 
+}
