@@ -1,6 +1,7 @@
 {
   "versionCode": 2,
   "versionName": "1.0",
-  "apkUrl": "https://raw.githubusercontent.com/elmundodediego29/bilinguify-updates/refs/heads/main/update.json",
-  "apkSha256": "C07F89DE5F88163091AAB884BA03410A113A338911AE3011132A859B00FE3399" 
+  "apkUrl": "https://github.com/elmundodediego29/bilinguify-updates/releases/download/2.0/Bilinguify.apk",
+  "apkSha256": "C07F89DE5F88163091AAB884BA03410A113A338911AE3011132A859B00FE3399",
+  "description": "Mejoras de seguridad SHA-256 y control offline de 30 días."
 }
