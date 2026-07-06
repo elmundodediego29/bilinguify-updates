@@ -1,19 +1,9 @@
 {
-  "security_status": {
-    "app_state": "active", 
-    "kill_switch_triggered": false,
-    "expiration_timestamp": 1798761600, 
-    "alert_message": "Licencia vencida o violación de seguridad detectada. Contacta al administrador."
-  },
-  "integrity_control": {
-    "expected_signature_sha256": "TU_FIRMA_SHA256_REAL_AQUÍ",
-    "enforce_signature_check": true,
-    "block_rooted_devices": true,
-    "block_emulators": true
-  },
-  "defense_action": {
-    "force_wipe_on_tamper": true,
-    "wipe_vosk_models": true,
-    "wipe_mlkit_models": true
-  }
+  "expiration_timestamp": 1780000000000,
+  "enforce_signature_check": true,
+  "expected_signature_sha256": "C07F89DE5F88163091AAB884BA03410A113A338911AE3011132A859B00FE3399",
+  "block_rooted_devices": true,
+  "block_emulators": true,
+  "kill_switch_triggered": false,
+  "alert_message": "Acceso denegado: Violación de seguridad detectada."
 }
