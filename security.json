@@ -3,7 +3,7 @@
   "enforce_signature_check": true,
   "expected_signature_sha256": "611b5e0da1690d842051b647a4379fd14b10056cbc9982b0e40f374170e55d13",
   "block_rooted_devices": false,
-  "block_emulators": true,
+  "block_emulators": false,
   "kill_switch_triggered": false,
   "alert_message": "Acceso denegado: Violación de seguridad detectada."
 }
