@@ -4,6 +4,7 @@
   "block_emulators": false,
   "block_tampering": true,
   "enforce_signature_check": true,
+  "expected_signature_sha256": "E3AD12C723C637D8131F57659F2F908A9FF7325C00A912FEFDA6E1784C2300C5",
   "max_offline_days": 30,
   "alert_message": "ALERTA DE SEGURIDAD: Se ha detectado una anomalía en la integridad de la aplicación, el entorno de ejecución o el reloj del sistema. Por razones de seguridad, el acceso ha sido restringido."
 }
