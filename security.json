@@ -1,9 +1,9 @@
 {
-  "expiration_timestamp": 1893456000000,
-  "enforce_signature_check": false,
-  "expected_signature_sha256": "611b5e0da1690d842051b647a4379fd14b10056cbc9982b0e40f374170e55d13",
+  "kill_switch_triggered": false,
   "block_rooted_devices": false,
   "block_emulators": false,
-  "kill_switch_triggered": false,
-  "alert_message": "Acceso denegado: Violación de seguridad detectada."
+  "block_tampering": true,
+  "enforce_signature_check": true,
+  "max_offline_days": 30,
+  "alert_message": "ALERTA DE SEGURIDAD: Se ha detectado una anomalía en la integridad de la aplicación, el entorno de ejecución o el reloj del sistema. Por razones de seguridad, el acceso ha sido restringido."
 }
